@@ -15,6 +15,7 @@
  
  1. Instructions (see below)
  1. [Simple JSON example](Simple%20JSON)
+ 1. [Coding Keys](Coding%20Keys)
  1. [Model from JSON](Model%20from%20JSON)
  
  ## Instructions
